@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # put editor here
-ED=nvim
+ED=$EDITOR
 # probably could do this with one command and parsing
 year=`date +%Y`
 month=`date +%m`
